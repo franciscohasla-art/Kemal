@@ -1,0 +1,19 @@
+{
+  "name": "wazer-userbot",
+  "version": "5.0.0",
+  "description": "Wazer Userbot Manager - Çoklu Hesap, Bot Token, Kalıcı Oturum",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "telegram": "^2.8.1",
+    "input": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "Wazer",
+  "license": "MIT"
+}
